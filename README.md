@@ -4,6 +4,10 @@
 
 This repository contains a **5-stage pipelined RISC-V** processor written in Verilog, following the standard IF/ID/EX/MEM/WB architecture. It is suitable for simulation and educational purposes, and features a modular design for easy expansion.
 
+## Tools Used
+- **Icarus Verilog** for simulation
+- **GTKWave** for waveform viewing
+
 ## **Features**
 
 - **5-stage Pipeline:** IF, ID, EX, MEM, WB
