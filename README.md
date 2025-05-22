@@ -15,7 +15,6 @@ This repository contains a **5-stage pipelined RISC-V** processor written in Ver
 - **Register File:** 32 registers, 32 bits each
 - **Memory:** 256x32 word-aligned data/instruction memory
 - **Simulation Ready:** Testbench and waveform output included
-- **Extensible:** Modular for enhancements (forwarding, prediction, etc.)
 
 ## **File Descriptions**
 
