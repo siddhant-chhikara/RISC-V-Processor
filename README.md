@@ -71,3 +71,5 @@ _Sample from `instructions.mem`:_
 00142403 // LW x8, 1(x8)
 0014A023 // SW x1, 0(x9)
 ```
+![Pipeline Waveform](waveform.png)
+
