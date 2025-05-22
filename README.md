@@ -71,4 +71,5 @@ _Sample from `instructions.mem`:_
 0014A023 // SW x1, 0(x9)
 ```
 ![Pipeline Waveform](waveform.png)
+![Testbench output](testbenchvvp.png)
 
